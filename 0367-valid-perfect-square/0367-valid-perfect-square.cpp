@@ -4,7 +4,7 @@ public:
        if(num<0){
         return false;
        } 
-       for(long long i=0;i<=num;i++){
+       for(long long i=0;i*i<=num;i++){
         if(i*i==num){
             return true;
         }

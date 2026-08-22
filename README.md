@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -24,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0367-valid-perfect-square) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->

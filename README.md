@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,15 +25,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0367-valid-perfect-square) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -45,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

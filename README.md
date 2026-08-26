@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0136-single-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -59,5 +60,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

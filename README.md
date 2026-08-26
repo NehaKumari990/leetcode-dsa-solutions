@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0137-single-number-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0367-valid-perfect-square) |
 ## Sorting

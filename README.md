@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## String Matching

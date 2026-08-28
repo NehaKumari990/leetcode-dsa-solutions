@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0283-move-zeroes](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math

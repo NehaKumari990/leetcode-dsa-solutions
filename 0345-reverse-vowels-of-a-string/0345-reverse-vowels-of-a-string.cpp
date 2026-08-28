@@ -6,27 +6,34 @@ public:
 
         while (i < j) {
 
-            // i par vowel nahi hai
-            if (!(s[i] == 'a' || s[i] == 'e' || s[i] == 'i' ||
-                  s[i] == 'o' || s[i] == 'u' || s[i] == 'A' ||
-                  s[i] == 'E' || s[i] == 'I' || s[i] == 'O' ||
-                  s[i] == 'U')) {
-                i++;
-            }
+            // s[i] aur s[j] dono vowel hain
+            if ((s[i] == 65 || s[i] == 69 || s[i] == 73 ||
+                 s[i] == 79 || s[i] == 85 ||
+                 s[i] == 97 || s[i] == 101 || s[i] == 105 ||
+                 s[i] == 111 || s[i] == 117) &&
 
-            // j par vowel nahi hai
-            else if (!(s[j] == 'a' || s[j] == 'e' || s[j] == 'i' ||
-                       s[j] == 'o' || s[j] == 'u' || s[j] == 'A' ||
-                       s[j] == 'E' || s[j] == 'I' || s[j] == 'O' ||
-                       s[j] == 'U')) {
-                j--;
-            }
+                (s[j] == 65 || s[j] == 69 || s[j] == 73 ||
+                 s[j] == 79 || s[j] == 85 ||
+                 s[j] == 97 || s[j] == 101 || s[j] == 105 ||
+                 s[j] == 111 || s[j] == 117)) {
 
-            // dono vowel hain
-            else {
                 swap(s[i], s[j]);
                 i++;
                 j--;
+            }
+
+            // s[i] vowel hai, s[j] vowel nahi hai
+            else if (s[i] == 65 || s[i] == 69 || s[i] == 73 ||
+                     s[i] == 79 || s[i] == 85 ||
+                     s[i] == 97 || s[i] == 101 || s[i] == 105 ||
+                     s[i] == 111 || s[i] == 117) {
+
+                j--;
+            }
+
+            // s[i] vowel nahi hai
+            else {
+                i++;
             }
         }
 

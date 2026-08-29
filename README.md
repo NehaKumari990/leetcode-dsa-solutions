@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0031-next-permutation) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0350-intersection-of-two-arrays-ii) |

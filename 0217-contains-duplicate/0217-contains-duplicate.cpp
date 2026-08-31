@@ -4,16 +4,13 @@ public:
 
         unordered_map<int, int> mp;
 
-        // Step 1: Frequency count
         for(int x : nums) {
-            mp[x]++;
-        }
 
-        // Step 2: Frequency check
-        for(auto it : mp) {
-            if(it.second > 1) {
+            if(mp.find(x) != mp.end()) {
                 return true;
             }
+
+            mp[x]++;
         }
 
         return false;

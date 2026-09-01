@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
 | ------- |
@@ -131,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->

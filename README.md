@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0412-fizz-buzz) |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0415-add-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/NehaKumari990/leetcode-dsa-solutions/tree/master/0415-add-strings) |
 ## Queue
 |  |
 | ------- |
